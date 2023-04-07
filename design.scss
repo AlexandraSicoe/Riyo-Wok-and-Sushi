@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "lato", "Arial";
+}
+.logo {
+  width: 130px;
+}
+.container {
+  // background-color: black;
+}
+.menu-item {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 8px;
+}
+i {
+  color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.main {
+  background-image: url("./img/background-sushi.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.title {
+  font-size: 63px;
+  font-weight: 500;
+  font-family: "Quicksand";
+}
+.description {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Roboto";
+}
+.content {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  max-height: 900px;
+}
+.sushi-text {
+  z-index: 999;
+  font-size: 42px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.secondary {
+  position: relative;
+  text-align: center;
+  min-height: 315px;
+}
+.quicksand {
+  font-family: "Quicksand";
+}
+
+.background-cards {
+  background-image: url("./img/backgroundImageCards.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  padding: 80px 0 80px 0;
+}
+.product {
+  width: 20%;
+}
+.restaurant-pic {
+  width: 15vw;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.paragraph {
+  color: rgb(119, 119, 119);
+  font-size: 16px;
+  font-family: "Open Sans";
+}
+.second-title {
+  color: rgb(36, 36, 36);
+  font-size: 40px;
+  font-family: "Quicksand";
+  font-weight: 500;
+}
