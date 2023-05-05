@@ -94,4 +94,13 @@ i {
   font-size: 40px;
   font-family: "Quicksand";
   font-weight: 500;
-}/*# sourceMappingURL=design.css.map */
+} /*# sourceMappingURL=design.css.map */
+.more {
+  background-color: rgb(195, 31, 75);
+  color: #fff;
+  border-radius: 5px;
+  padding: 12px 20px;
+  font-size: 13px;
+  line-height: 18px;
+  border-color: transparent;
+}
